@@ -17,7 +17,7 @@
    id="svg936"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="interseccion_t_carriles_acelera.svg"
-   inkscape:export-filename="C:\models\2plus1\1+1\interseccion_t_carriles_acelera_v2.png"
+   inkscape:export-filename="C:\models\2plus1\1+1\interseccion_t_carriles_acelera.png"
    inkscape:export-xdpi="300.14334"
    inkscape:export-ydpi="300.14334">
   <defs
@@ -658,8 +658,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="126.88962"
-     inkscape:cy="43.466181"
+     inkscape:cx="215.27797"
+     inkscape:cy="170.7454"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1524,7 +1524,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="cotas">
+     inkscape:label="cotas"
+     style="display:none">
     <path
        style="fill:none;stroke:#1600fc;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 12.848278,39 V 54.546471"
@@ -1574,25 +1575,25 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#DotM);marker-end:url(#marker10640);paint-order:normal"
+       style="fill:none;stroke:#0000ff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotM);marker-end:url(#marker10640);paint-order:normal"
        d="M 24.499999,46.813136 H 12.848278"
        id="path8812"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker10964);marker-end:url(#marker11112);font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-dashoffset:0;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker10964);marker-end:url(#marker11112);paint-order:normal"
        d="M 31.684523,46.813136 H 46.30752"
        id="path8814"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker11990);marker-end:url(#marker12174);font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-dashoffset:0;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker11990);marker-end:url(#marker12174);paint-order:normal"
        d="M 50.049998,46.813136 H 67.725506"
        id="path8816"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker11459);marker-end:url(#marker11619);font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-dashoffset:0;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker11459);marker-end:url(#marker11619);paint-order:normal"
        d="m 12.848278,54.54647 h 37.20172"
        id="path8818"
        inkscape:connector-curvature="0"
@@ -1604,7 +1605,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker12593);marker-end:url(#marker12801);font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-dashoffset:0;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker12593);marker-end:url(#marker12801);paint-order:normal"
        d="M 50.049998,54.54647 H 83.989695"
        id="path8822"
        inkscape:connector-curvature="0"
